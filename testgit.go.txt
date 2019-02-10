@@ -1,6 +1,3 @@
 asdasdsasdasdas
-<<<<<<< HEAD
 sdjfljsflakjdslkfjlksdjfalkjlskajfdlkjsdlkfj
-=======
 asdja;md;k;k;dk;lsdkaf;ksd;fksad;lsdkaf
->>>>>>> 2f5eceb0e4434312920ec5d44a576d516578b2e0
